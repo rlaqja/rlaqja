@@ -17,6 +17,7 @@
 ---
 [네이버](https://www.naver.com)
 ````
-<img src='image/문상훈3.jpg'> </img>
+<img width="100%" src="https://user-images.githubusercontent.com/124110631/221796369-a81c79d8-7e5f-4e30-82fe-7e974ef0e15c.jpg"> </img>
+
 ````
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Mr.Kim%20&&animation=scaleIn)
